@@ -1,0 +1,17 @@
+[
+    {
+        "sabor": "capuccino",
+        "valor": 7,
+        "descricao": "paleta cremosa sabor capuccino, perfeita para lembrar daquele cafe da manha incrivel"
+    },
+    {
+        "sabor": "castanha",
+        "valor": 7,
+        "descricao": "paleta sabor castanha com gostinho do norte e nordeste"
+    },
+    {
+        "sabor": "coco ",
+        "valor": 5,
+        "descricao": "paleta sabor coco com sencacao tropical, o tipico sabor brasileiro"
+    }
+]
