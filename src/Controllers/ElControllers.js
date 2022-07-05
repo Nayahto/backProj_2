@@ -41,7 +41,7 @@ const create = (req, res) => {
         });
     } else {
         const newPale = Elserv.servNew(palebody);
-        res.send(newPale);
+        res.send({ message: 'item adicionado com sucesso' });
     }
 };
 
